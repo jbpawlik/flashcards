@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+h1 {
+  margin:2em;
+  border: solid .5em gray;
+}
+.card {
+  border: solid .5em gray;
+  border-radius: 1em;
+}
+h2 {
+  cursor: pointer;
+}
+.card-text {
+  display:none;
+}
